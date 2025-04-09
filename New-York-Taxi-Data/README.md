@@ -1,0 +1,6 @@
+# New-York-Taxi-Data
+Public transportation has been proved one of the most vital service in metropolitan cities. In United States, taxi mode of conveyance is a forerunner and is used as the best subsitute for general public use for getting their basic necessities. There are many misconceptions about Taxi and Limousine service of New York City. How should they be disseminated in the city based on the assumptions: pickup times, distance, airport times etc. 
+
+In order to provide very good taxi service and plan for its effective integration in the city's transportation system, demand of the taxi data should be analyzed. The dataset used here provides relating information such as where/when taxis are used and other factors which makes the public use these taxis over other modes of transport.
+
+In this notebook, I will explore data on New York City Yellow Taxi of September 2015. I have first tried to answer some warm-up questions on the dataset which will be followed by interactive plots using ipython widget. This code is fully written in python and is an initial Exploratory Data Analysis prior to Data Modelling and predictions. The core objective of this repo is to analyse factors for demand for taxis, to find most pickups, most dropoffs, time of most traffic and how to overcome the needs of the public. 
