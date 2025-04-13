@@ -53,10 +53,10 @@ Through our analysis, we aim to uncover:
 
 
 	1.	Install the required libraries:
-pip install pandas numpy matplotlib seaborn scikit-learn geopandas ipywidgets
+                pip install pandas numpy matplotlib seaborn scikit-learn geopandas ipywidgets
 
 	2.	Run the notebooks:
-Open the Jupyter notebooks (.ipynb files) in your preferred environment to explore the analysis and models.
+               Open the Jupyter notebooks (.ipynb files) in your preferred environment to explore the analysis and models.
 
 
 
