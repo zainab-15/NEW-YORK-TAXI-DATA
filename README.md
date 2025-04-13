@@ -1,5 +1,4 @@
 # NEW-YORK-TAXI-DATA
-Certainly! Here’s a structured and informative README.md for the New-York-Taxi-Data repository:
 
 ## New York Taxi Data Analysis
 
